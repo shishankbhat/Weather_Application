@@ -1,8 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Weather Detection App
+Introduction
+Welcome to the Weather Detection App! This application allows users to get real-time weather information for any location around the world. The app fetches weather data from a reliable weather API and displays it in a user-friendly format.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Real-time weather updates
+Current temperature, humidity, and wind speed
+Weather forecasts for upcoming days
